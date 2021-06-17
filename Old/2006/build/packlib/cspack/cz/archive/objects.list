@@ -1,0 +1,12 @@
+archive/czclos.o
+archive/czdumm.o
+archive/czgeta.o
+archive/czgetc.o
+archive/czopen.o
+archive/czputa.o
+archive/czputc.o
+archive/czrand.o
+archive/czrtim.o
+archive/czstop.o
+archive/czswap.o
+archive/cztcp.o

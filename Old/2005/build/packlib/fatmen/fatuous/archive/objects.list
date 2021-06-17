@@ -1,0 +1,7 @@
+archive/fmaddd.o
+archive/fmaddt.o
+archive/fmfend.o
+archive/fmfile.o
+archive/fmpeek.o
+archive/fmpoke.o
+archive/fmstrt.o

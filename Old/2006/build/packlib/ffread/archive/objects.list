@@ -1,0 +1,14 @@
+
+sffread/archive/ffcard.o
+sffread/archive/fffind.o
+sffread/archive/ffget.o
+sffread/archive/ffgo.o
+sffread/archive/ffinit.o
+sffread/archive/ffkey.o
+sffread/archive/ffread.o
+sffread/archive/ffrset.o
+sffread/archive/ffset.o
+sffread/archive/ffskip.o
+sffread/archive/ffupca.o
+sffread/archive/ffuser.o
+sffread/archive/ffuset.o

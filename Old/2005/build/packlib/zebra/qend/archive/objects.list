@@ -1,0 +1,8 @@
+archive/zabend.o
+archive/zend.o
+archive/zfatal.o
+archive/zfatam.o
+archive/zphase.o
+archive/zpostm.o
+archive/ztell.o
+archive/ztelus.o

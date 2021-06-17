@@ -1,0 +1,13 @@
+Makeing bin/kuipc in /packlib...
+make[1]: Entering directory '/home/HR/Repositories/cernlib/2006/build/packlib'
+Makeing bin/kuipc in /packlib/kuip...
+make[2]: Entering directory '/home/HR/Repositories/cernlib/2006/build/packlib/kuip'
+Makeing bin/kuipc in /packlib/kuip/programs...
+make[3]: Entering directory '/home/HR/Repositories/cernlib/2006/build/packlib/kuip/programs'
+Makeing bin/kuipc in /packlib/kuip/programs/kuipc...
+make[4]: Entering directory '/home/HR/Repositories/cernlib/2006/build/packlib/kuip/programs/kuipc'
+make[4]: Nothing to be done for 'bin/kuipc'.
+make[4]: Leaving directory '/home/HR/Repositories/cernlib/2006/build/packlib/kuip/programs/kuipc'
+make[3]: Leaving directory '/home/HR/Repositories/cernlib/2006/build/packlib/kuip/programs'
+make[2]: Leaving directory '/home/HR/Repositories/cernlib/2006/build/packlib/kuip'
+make[1]: Leaving directory '/home/HR/Repositories/cernlib/2006/build/packlib'

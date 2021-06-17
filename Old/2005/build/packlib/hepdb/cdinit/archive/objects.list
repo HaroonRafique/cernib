@@ -1,0 +1,10 @@
+archive/cdexpd.o
+archive/cdfrst.o
+archive/cdinit.o
+archive/cdjour.o
+archive/cdnew.o
+archive/cdopen.o
+archive/cdpaw.o
+archive/cdshar.o
+archive/cdudiv.o
+archive/cdupdt.o

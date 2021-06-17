@@ -1,0 +1,7 @@
+# DO NOT DELETE
+
+archive//home/HR/Repositories/cernlib/2005//src/packlib/hbook/code/hforma.o archive/hforma.d: /home/HR/Repositories/cernlib/2005/src/packlib/hbook/hbook/pilot.h
+archive//home/HR/Repositories/cernlib/2005//src/packlib/hbook/code/hforma.o archive/hforma.d: /home/HR/Repositories/cernlib/2005/src/packlib/hbook/hbook/hcunit.inc
+archive//home/HR/Repositories/cernlib/2005//src/packlib/hbook/code/hforma.o archive/hforma.d: /home/HR/Repositories/cernlib/2005/src/packlib/hbook/hbook/hcprin.inc
+archive//home/HR/Repositories/cernlib/2005//src/packlib/hbook/code/hforma.o archive/hforma.d: /home/HR/Repositories/cernlib/2005/src/packlib/hbook/hbook/hcrlf.inc
+archive//home/HR/Repositories/cernlib/2005//src/packlib/hbook/code/hforma.o archive/hforma.d: /home/HR/Repositories/cernlib/2005/src/packlib/hbook/hbook/hcrlf1.inc

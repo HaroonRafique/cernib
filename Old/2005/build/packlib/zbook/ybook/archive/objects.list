@@ -1,0 +1,7 @@
+archive/ybook.o
+archive/ybook0.o
+archive/yfetch.o
+archive/yinit.o
+archive/ymove.o
+archive/ypush.o
+archive/ywork.o

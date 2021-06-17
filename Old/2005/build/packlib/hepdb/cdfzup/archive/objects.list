@@ -1,0 +1,7 @@
+archive/cdextr.o
+archive/cdfzop.o
+archive/cdfzwr.o
+archive/cdrtfz.o
+archive/cdfzup.o
+archive/cdildf.o
+archive/cdildu.o

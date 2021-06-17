@@ -1,0 +1,12 @@
+archive/ciclos.o
+archive/ciget.o
+archive/cigetw.o
+archive/ciopei.o
+archive/ciperm.o
+archive/ciput.o
+archive/ciputw.o
+archive/cirew.o
+archive/ciseek.o
+archive/cisize.o
+archive/citell.o
+archive/ciopen.o

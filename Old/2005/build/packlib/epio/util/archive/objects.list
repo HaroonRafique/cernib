@@ -1,0 +1,15 @@
+archive/cfrascun.o
+archive/ctoascun.o
+archive/blo16stv.o
+archive/blo32wsv.o
+archive/blo8stv.o
+archive/btswpstv.o
+archive/bun16stv.o
+archive/bun32wsv.o
+archive/bun8stv.o
+archive/cfribmsv.o
+archive/ctoibstv.o
+archive/iwd16stv.o
+archive/sfrascvx.o
+archive/stoascvx.o
+archive/w16mvstv.o

@@ -1,0 +1,10 @@
+archive/ceqinv.o
+archive/ceqn.o
+archive/cinv.o
+archive/deqinv.o
+archive/deqn.o
+archive/dinv.o
+archive/reqinv.o
+archive/reqn.o
+archive/rinv.o
+archive/f010pr.o

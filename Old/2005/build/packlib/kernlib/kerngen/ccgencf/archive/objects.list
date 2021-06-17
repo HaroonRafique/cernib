@@ -1,0 +1,12 @@
+archive/cfclos.o
+archive/cfget.o
+archive/cfopei.o
+archive/cfperm.o
+archive/cfput.o
+archive/cfrew.o
+archive/cfseek.o
+archive/cfsize.o
+archive/cfstati.o
+archive/cftell.o
+archive/cfopen.o
+archive/cfstat.o

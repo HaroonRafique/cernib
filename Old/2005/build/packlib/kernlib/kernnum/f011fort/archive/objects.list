@@ -1,0 +1,10 @@
+archive/cfact.o
+archive/cfeqn.o
+archive/cfinv.o
+archive/dfact.o
+archive/dfeqn.o
+archive/dfinv.o
+archive/rfact.o
+archive/rfeqn.o
+archive/rfinv.o
+archive/tmprnt.o

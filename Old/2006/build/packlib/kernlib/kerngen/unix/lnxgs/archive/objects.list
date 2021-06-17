@@ -1,0 +1,11 @@
+archive/ishft.o
+archive/ishftr.o
+archive/btest.o
+archive/iand.o
+archive/ibclr.o
+archive/ibset.o
+archive/ieor.o
+archive/ior.o
+archive/irndm.o
+archive/qnext.o
+archive/rdmin.o

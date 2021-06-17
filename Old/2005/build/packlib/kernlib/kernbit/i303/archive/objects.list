@@ -1,0 +1,15 @@
+archive/ralph.o
+archive/rdendb.o
+archive/rdigi.o
+archive/rdint.o
+archive/rdload.o
+archive/rdmant.o
+archive/rdmode.o
+archive/rdname.o
+archive/rdnext.o
+archive/rdskip.o
+archive/rdskpb.o
+archive/rdupch.o
+archive/rdupst.o
+archive/rdwdat.o
+archive/rdword.o

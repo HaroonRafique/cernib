@@ -1,0 +1,13 @@
+archive/jzend.o
+archive/jzin.o
+archive/jzinit.o
+archive/jzlift.o
+archive/jzlog.o
+archive/jzonly.o
+archive/jzout.o
+archive/jzroot.o
+archive/jzsetf.o
+archive/jztell.o
+archive/jztrac.o
+archive/jzwind.o
+archive/jzzero.o

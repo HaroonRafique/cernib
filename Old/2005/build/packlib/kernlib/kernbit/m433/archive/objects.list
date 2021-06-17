@@ -1,0 +1,17 @@
+archive/indexa.o
+archive/indexb.o
+archive/indexc.o
+archive/indexn.o
+archive/indexs.o
+archive/indxac.o
+archive/indxbc.o
+archive/indxnc.o
+archive/iscan.o
+archive/repeat.o
+archive/spaces.o
+archive/strip.o
+archive/subword.o
+archive/verify.o
+archive/word.o
+archive/words.o
+archive/wordsep.o

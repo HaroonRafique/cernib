@@ -1,0 +1,12 @@
+
+lnxgs/archive/ishft.o
+lnxgs/archive/ishftr.o
+lnxgs/archive/btest.o
+lnxgs/archive/iand.o
+lnxgs/archive/ibclr.o
+lnxgs/archive/ibset.o
+lnxgs/archive/ieor.o
+lnxgs/archive/ior.o
+lnxgs/archive/irndm.o
+lnxgs/archive/qnext.o
+lnxgs/archive/rdmin.o

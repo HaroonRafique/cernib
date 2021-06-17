@@ -1,0 +1,8 @@
+archive/tzacw.o
+archive/tzfind.o
+archive/tzfree.o
+archive/tzinit.o
+archive/tzinq.o
+archive/tzshun.o
+archive/tzuser.o
+archive/tzvers.o

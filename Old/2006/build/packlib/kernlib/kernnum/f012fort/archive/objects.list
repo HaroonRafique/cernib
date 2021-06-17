@@ -1,0 +1,10 @@
+archive/dseqn.o
+archive/dsfact.o
+archive/dsfeqn.o
+archive/dsfinv.o
+archive/dsinv.o
+archive/rseqn.o
+archive/rsfact.o
+archive/rsfeqn.o
+archive/rsfinv.o
+archive/rsinv.o

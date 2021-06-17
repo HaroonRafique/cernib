@@ -1,0 +1,3 @@
+# DO NOT DELETE
+
+archive//home/HR/Repositories/cernlib/2006/src/packlib/hbook/hmmap/hmapm.o archive/hmapm.d: /home/HR/Repositories/cernlib/2006/src/packlib/hbook/hbook/pilot.h

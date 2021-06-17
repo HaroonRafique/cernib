@@ -1,0 +1,10 @@
+archive/cdchfi.o
+archive/cditoc.o
+archive/cdtous.o
+archive/cducmp.o
+archive/cducmz.o
+archive/cduncp.o
+archive/cdupck.o
+archive/cdupfz.o
+archive/cdupiz.o
+archive/cdlind.o

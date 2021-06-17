@@ -1,0 +1,13 @@
+archive/setdef.o
+archive/szcd.o
+archive/szclos.o
+archive/szinqr.o
+archive/szls.o
+archive/szmv.o
+archive/szopen.o
+archive/szpiaf.o
+archive/szread.o
+archive/szrewd.o
+archive/szrite.o
+archive/szrm.o
+archive/szvers.o

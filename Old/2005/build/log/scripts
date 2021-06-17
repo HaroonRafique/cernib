@@ -1,0 +1,2 @@
+rm -f /home/HR/Repositories/cernlib/2005/bin/paw
+install -c -s  /home/HR/Repositories/cernlib/2005/src/scripts/paw /home/HR/Repositories/cernlib/2005/bin/paw

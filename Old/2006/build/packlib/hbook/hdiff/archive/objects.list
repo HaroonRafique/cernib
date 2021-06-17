@@ -1,0 +1,11 @@
+archive/hbnsum.o
+archive/hdbaop.o
+archive/hdbcop.o
+archive/hdbini.o
+archive/hdbprf.o
+archive/hdbsop.o
+archive/hdiff.o
+archive/hdiffb.o
+archive/hgcont.o
+archive/hlbino.o
+archive/hlnfct.o

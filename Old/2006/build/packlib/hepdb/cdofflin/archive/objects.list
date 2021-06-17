@@ -1,0 +1,5 @@
+archive/cdfopn.o
+archive/cdfsnd.o
+archive/cdfzlo.o
+archive/cdsave.o
+archive/cdstsv.o

@@ -1,0 +1,4 @@
+archive/halloc.o
+archive/hbvers.o
+archive/hbpqry.o
+archive/hshm.o

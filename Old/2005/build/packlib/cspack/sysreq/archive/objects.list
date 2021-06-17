@@ -1,0 +1,10 @@
+archive/getacct.o
+archive/getconfent.o
+archive/log.o
+archive/netreq.o
+archive/serror.o
+archive/socket.o
+archive/sysreqf.o
+archive/trace.o
+archive/xdr.o
+archive/sysreqc.o
